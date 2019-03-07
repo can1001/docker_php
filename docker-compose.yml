@@ -11,7 +11,7 @@ services:
       - "MYSQL_PASSWORD=hello"
       - "MYSQL_ROOT_PASSWORD=root"
     ports:
-      - "3306:3306"
+      - "3308:3308"
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:4.7
     depends_on:
@@ -31,4 +31,4 @@ services:
     depends_on:
       - db
     ports:
-      - "80:80"
+      - "8088:8088"
