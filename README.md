@@ -39,3 +39,8 @@ https://edykim.com/ko/post/using-the-docker-in-a-regular-php-project-development
 # Docker 기본 사용법 정리
 
 https://nicewoong.github.io/development/2017/10/09/basic-usage-for-docker/
+
+# 그런 REST API로 괜찮은가
+
+https://www.youtube.com/watch?v=RP_f5dMoHFc
+
